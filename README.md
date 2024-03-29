@@ -2,6 +2,8 @@
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=nyadero)
 
+![Nyaderos's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyadero&show_icons=true)
+
 I'm a software developer based in Mombasa, Kenya, passionate about building innovative solutions and exploring new technologies.
 
 ## 🔧 Skills & Technologies
