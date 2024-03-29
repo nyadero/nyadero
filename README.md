@@ -28,5 +28,5 @@ I'm actively seeking opportunities in backend development, especially in NestJS 
 - Open to contributions and collaboration on projects.
 - Feel free to reach out if you're interested in working together!
 
-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nyadero010)]
 
