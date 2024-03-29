@@ -5,7 +5,7 @@ I'm a software developer based in Mombasa, Kenya, passionate about building inno
 ![Profile Views](https://komarev.com/ghpvc/?username=nyadero)
 
 ## 🔧 Skills & Technologies
-- **Programming Languages**: Java, JavaScript (Node.js), C++, kotlin
+- **Programming Languages**: Java, JavaScript (Node.js), Typescript, kotlin
 - **Web Development**: Angular, HTML/CSS, RESTful APIs
 - **Backend Development**: Springboot, nestjs, postgress, mysql
 - **Other**: Git, SQL, Agile Development
