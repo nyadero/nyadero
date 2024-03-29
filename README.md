@@ -4,6 +4,8 @@
 
 ![Nyaderos's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyadero&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyaderora&langs_count=8)
+
 I'm a software developer based in Mombasa, Kenya, passionate about building innovative solutions and exploring new technologies.
 
 ## 🔧 Skills & Technologies
