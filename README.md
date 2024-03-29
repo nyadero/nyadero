@@ -1,11 +1,11 @@
 # Hi there, I'm Nyadero Brian Odhiambo! 👋
+I'm a software developer based in Mombasa, Kenya, passionate about building innovative solutions and exploring new technologies.
+
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=nyadero)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyadero&layout=donut-vertical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyadero&layout=donut-vertical)](https://github.com/nyadero/github-readme-stats)
 
-I'm a software developer based in Mombasa, Kenya, passionate about building innovative solutions and exploring new technologies.
 
 ## 🔧 Skills & Technologies
 
@@ -21,10 +21,12 @@ I'm actively seeking opportunities in backend development, especially in NestJS 
 
 - Email: [briannyadero@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/nyadero-brian/]
-- X: []
+- X: [https://twitter.com/Nyadero010]
 
 ## 🤝 Contributions & Collaboration
 
 - Open to contributions and collaboration on projects.
 - Feel free to reach out if you're interested in working together!
+
+- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
