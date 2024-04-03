@@ -24,7 +24,7 @@ I'm actively seeking opportunities in backend development, especially in NestJS 
 - Open to contributions and collaboration on projects.
 - Feel free to reach out if you're interested in working together!
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyadero&layout=donut-vertical)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyadero&layout=donut-vertical&show_icons=true))
 
 - ![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nyadero010)
 
