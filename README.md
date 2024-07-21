@@ -8,17 +8,22 @@
 
 ### Programming Languages
 
-![Java](https://raw.githubusercontent.com/nyadero/images/main/programming_languages/java.svg) 
-![JavaScript](https://raw.githubusercontent.com/nyadero/images/main/programming_languages/javascript.svg)
-![TypeScript](https://raw.githubusercontent.com/nyadero/images/main/programming_languages/typescript.svg)
-![Kotlin](https://raw.githubusercontent.com/nyadero/images/main/programming_languages/kotlin.svg)
+<p>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/java.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/javascript.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/typescript.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/kotlin.svg" alt="Kotlin" width="50" height="50"/>
+</p>
 
 ### Backend Development
 
-![Spring Boot](https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/springboot.svg)
-![NestJS](https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/nestjs.svg)
-![PostgreSQL](https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/postgresql.svg)
-![MySQL](https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/mysql.svg)
+<p>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/springboot.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/nestjs.svg" alt="NestJS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/mysql.svg" alt="MySQL" width="50" height="50"/>
+</p>
+
 
 
 
