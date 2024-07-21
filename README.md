@@ -27,9 +27,18 @@
 I'm actively seeking opportunities in backend or android app development, If you're hiring for such roles or know of any relevant opportunities, feel free to contact me!
 
 ## 📫 Contact Me
-- [![Email](https://raw.githubusercontent.com/nyadero/images/main/social_icons/email.svg)](mailto:briannyadero@gmail.com)
-- [![LinkedIn](https://raw.githubusercontent.com/nyadero/images/main/social_icons/linkedin.svg)](https://www.linkedin.com/in/nyadero-brian/)
-- [![Twitter](https://raw.githubusercontent.com/nyadero/images/main/social_icons/twitter.svg)](https://twitter.com/Nyadero010)
+<div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="mailto:briannyadero@gmail.com">
+    <img src="https://raw.githubusercontent.com/nyadero/images/main/social_icons/gmail.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nyadero-brian/">
+    <img src="https://raw.githubusercontent.com/nyadero/images/main/social_icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/Nyadero010">
+    <img src="https://raw.githubusercontent.com/nyadero/images/main/social_icons/twitter.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+</div>
+
 
 ## 🤝 Contributions & Collaboration
 
