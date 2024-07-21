@@ -6,8 +6,11 @@
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/javascript.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/typescript.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/kotlin.svg" alt="Kotlin" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/php.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/c++.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/spring.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/Nestjs.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/Nest.js.svg" alt="NestJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/laravel.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/android.svg" alt="Android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/angular.svg" alt="Angular" width="40" height="40"/>
