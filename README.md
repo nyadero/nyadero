@@ -1,4 +1,4 @@
-# Hi 👋 there, I'm Nyadero Brian Odhiambo! 
+ # Hi 👋 there, I'm Nyadero Brian Odhiambo! 
 
 ## 🔧 Skills & Technologies
 <div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center;">
@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/typescript.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/kotlin.svg" alt="Kotlin" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/php.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/php.png" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/c++.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/spring.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/Nest.js.svg" alt="NestJS" width="40" height="40"/>
@@ -27,10 +27,9 @@
 I'm actively seeking opportunities in backend or android app development, If you're hiring for such roles or know of any relevant opportunities, feel free to contact me!
 
 ## 📫 Contact Me
-
-- Email: [briannyadero@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/nyadero-brian/]
-- X: [https://twitter.com/Nyadero010]
+- [![Email](https://raw.githubusercontent.com/nyadero/images/main/social_icons/email.svg)](mailto:briannyadero@gmail.com)
+- [![LinkedIn](https://raw.githubusercontent.com/nyadero/images/main/social_icons/linkedin.svg)](https://www.linkedin.com/in/nyadero-brian/)
+- [![Twitter](https://raw.githubusercontent.com/nyadero/images/main/social_icons/twitter.svg)](https://twitter.com/Nyadero010)
 
 ## 🤝 Contributions & Collaboration
 
