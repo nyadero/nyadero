@@ -4,7 +4,7 @@
 - **Programming Languages**: Java, JavaScript (Node.js), Typescript, kotlin
 - **Backend Development**: Springboot, nestjs, postgress, mysql
 
-- ![Java](https://raw.githubusercontent.com/your-username/your-repository/main/images/java.png) 
+- ![Java](https://raw.githubusercontent.com/nyadero/images/programming_languages/java.svg) 
 ![JavaScript](https://raw.githubusercontent.com/your-username/your-repository/main/images/javascript.png)
 ![TypeScript](https://raw.githubusercontent.com/your-username/your-repository/main/images/typescript.png)
 ![Kotlin](https://raw.githubusercontent.com/your-username/your-repository/main/images/kotlin.png)
