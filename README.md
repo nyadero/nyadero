@@ -4,14 +4,22 @@
 - **Programming Languages**: Java, JavaScript (Node.js), Typescript, kotlin
 - **Backend Development**: Springboot, nestjs, postgress, mysql
 
-- ![Java](https://raw.githubusercontent.com/nyadero/images/programming_languages/java.svg) 
-![JavaScript](https://raw.githubusercontent.com/your-username/your-repository/main/images/javascript.png)
-![TypeScript](https://raw.githubusercontent.com/your-username/your-repository/main/images/typescript.png)
-![Kotlin](https://raw.githubusercontent.com/your-username/your-repository/main/images/kotlin.png)
-![Spring Boot](https://raw.githubusercontent.com/your-username/your-repository/main/images/springboot.png)
-![NestJS](https://raw.githubusercontent.com/your-username/your-repository/main/images/nestjs.png)
-![PostgreSQL](https://raw.githubusercontent.com/your-username/your-repository/main/images/postgresql.png)
-![MySQL](https://raw.githubusercontent.com/your-username/your-repository/main/images/mysql.png)
+## 🔧 Skills & Technologies
+
+### Programming Languages
+
+![Java](https://raw.githubusercontent.com/nyadero/images/main/programming_languages/java.svg) 
+![JavaScript](https://raw.githubusercontent.com/nyadero/images/main/programming_languages/javascript.svg)
+![TypeScript](https://raw.githubusercontent.com/nyadero/images/main/programming_languages/typescript.svg)
+![Kotlin](https://raw.githubusercontent.com/nyadero/images/main/programming_languages/kotlin.svg)
+
+### Backend Development
+
+![Spring Boot](https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/springboot.svg)
+![NestJS](https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/nestjs.svg)
+![PostgreSQL](https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/postgresql.svg)
+![MySQL](https://raw.githubusercontent.com/nyadero/images/main/backend_technologies/mysql.svg)
+
 
 
 ### Looking for Opportunities
