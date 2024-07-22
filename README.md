@@ -45,3 +45,4 @@ I'm actively seeking opportunities in backend or android app development, If you
 - Open to contributions and collaboration on backend and android projects.
 - Feel free to reach out if you're interested in working together!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
