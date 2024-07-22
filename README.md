@@ -45,4 +45,4 @@ I'm actively seeking opportunities in backend or android app development, If you
 - Open to contributions and collaboration on backend and android projects.
 - Feel free to reach out if you're interested in working together!
 
-[![Nyadero's's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyadero)](https://github.com/nyadero/github-readme-stats)
+![Nyadero's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyadero&show_icons=true&theme=radical)
