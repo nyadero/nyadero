@@ -1,4 +1,4 @@
- # Hi 👋 there, I'm Nyadero Brian Odhiambo! I am a software developer specialising in backend and mobile app development.
+Hi 👋 there, I'm Nyadero Brian Odhiambo! I am a software developer specialising in backend and mobile app development.
 
 ### 🔧 Skills & Technologies
 <div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center;">
