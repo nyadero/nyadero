@@ -47,3 +47,5 @@ I'm actively seeking opportunities in backend or android app development, If you
 
 
 [![wakatime](https://wakatime.com/badge/user/5b27d133-2f17-41c4-9832-9e2e5edbdab5.svg)](https://wakatime.com/@5b27d133-2f17-41c4-9832-9e2e5edbdab5)
+
+https://wakatime.com/badge/user/5b27d133-2f17-41c4-9832-9e2e5edbdab5.svg
