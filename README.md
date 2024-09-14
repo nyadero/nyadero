@@ -1,6 +1,6 @@
- # Hi 👋 there, I'm Nyadero Brian Odhiambo! 
+ # Hi 👋 there, I'm Nyadero Brian Odhiambo! I am a software developer specialising in backend and mobile app development.
 
-## 🔧 Skills & Technologies
+### 🔧 Skills & Technologies
 <div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center;">
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/java.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/javascript.svg" alt="JavaScript" width="40" height="40"/>
@@ -26,7 +26,7 @@
 ### Looking for Opportunities
 I'm actively seeking opportunities in backend or android app development, If you're hiring for such roles or know of any relevant opportunities, feel free to contact me!
 
-## 📫 Contact Me
+### 📫 Contact Me
 <div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="mailto:briannyadero@gmail.com">
     <img src="https://raw.githubusercontent.com/nyadero/images/main/social_icons/gmail.svg" alt="Email" width="40" height="40"/>
@@ -40,12 +40,7 @@ I'm actively seeking opportunities in backend or android app development, If you
 </div>
 
 
-## 🤝 Contributions & Collaboration
+### 🤝 Contributions & Collaboration
 
 - Open to contributions and collaboration on backend and android projects.
 - Feel free to reach out if you're interested in working together!
-
-
-[![wakatime](https://wakatime.com/badge/user/5b27d133-2f17-41c4-9832-9e2e5edbdab5.svg)](https://wakatime.com/@5b27d133-2f17-41c4-9832-9e2e5edbdab5)
-
-https://wakatime.com/badge/user/5b27d133-2f17-41c4-9832-9e2e5edbdab5.svg
