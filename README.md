@@ -45,3 +45,5 @@ I'm actively seeking opportunities in backend or android app development, If you
 - Open to contributions and collaboration on backend and android projects.
 - Feel free to reach out if you're interested in working together!
 
+
+[![wakatime](https://wakatime.com/badge/user/5b27d133-2f17-41c4-9832-9e2e5edbdab5.svg)](https://wakatime.com/@5b27d133-2f17-41c4-9832-9e2e5edbdab5)
