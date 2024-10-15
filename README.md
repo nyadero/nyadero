@@ -24,6 +24,7 @@ Hi 👋 there, I'm Nyadero Brian Odhiambo! I am a software developer specialisin
 </div>
 
 Looking for Opportunities
+
 I'm actively seeking opportunities in backend or android app development, If you're hiring for such roles or know of any relevant opportunities, feel free to contact me!
 
 📫 Contact Me
