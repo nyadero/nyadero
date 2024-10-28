@@ -47,3 +47,8 @@ I'm actively seeking opportunities in backend or android app development, If you
 - Feel free to reach out if you're interested in working together!
 
 Currently Learning 
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=nyadero&theme=onedark)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyadero)
+
