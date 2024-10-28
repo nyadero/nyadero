@@ -1,6 +1,6 @@
 Hi 👋 there, I'm Nyadero Brian Odhiambo! I am a software developer specialising in backend and mobile app development.
 
-🔧 Skills & Technologies
+## 🔧 Skills & Technologies
 <div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center;">
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/java.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/javascript.svg" alt="JavaScript" width="40" height="40"/>
