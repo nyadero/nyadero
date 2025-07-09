@@ -2,11 +2,10 @@ Hi there, I'm Nyadero Brian Odhiambo! I am a software developer specialising in 
 
 ##  In My Free Time
 
-I'm currently building **[KraftAdmin](https://github.com/nyadero/kraftadmin)** — a modern admin dashboard framework for Spring Boot applications.  
-It’s inspired by tools like Laravel Filament and aims to bring developer-friendly components for quickly building powerful admin panels.
+I'm working on **[KraftAdmin](https://github.com/nyadero/kraftadmin)** — a simple admin dashboard framework for Spring Boot.  
+It's kind of like Laravel Filament but for Java devs. Just something I'm building to make it easier to manage data in Spring projects without writing too much boilerplate.
 
-KraftAdmin is my way of exploring design systems, developer experience (DX), and Java-powered back office tools — all while having fun pushing Spring Boot to its limits.
-
+Mainly doing it to learn and experiment with ideas around admin tools and developer experience.
 
 ##  Skills & Technologies
 <div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center;">
@@ -47,6 +46,4 @@ I'm actively seeking opportunities in backend or android app development, If you
 
 - Open to contributions and collaboration on backend(springboot) and android projects.
 - Feel free to reach out if you're interested in working together!
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nyadero&theme=github)
 
