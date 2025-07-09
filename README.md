@@ -1,17 +1,22 @@
-Hi 👋 there, I'm Nyadero Brian Odhiambo! I am a software developer specialising in backend and mobile app development.
+Hi there, I'm Nyadero Brian Odhiambo! I am a software developer specialising in backend and mobile app development.
 
-## 🔧 Skills & Technologies
+##  In My Free Time
+
+I'm currently building **[KraftAdmin](https://github.com/nyadero/kraftadmin)** — a modern admin dashboard framework for Spring Boot applications.  
+It’s inspired by tools like Laravel Filament and aims to bring developer-friendly components for quickly building powerful admin panels.
+
+KraftAdmin is my way of exploring design systems, developer experience (DX), and Java-powered back office tools — all while having fun pushing Spring Boot to its limits.
+
+
+##  Skills & Technologies
 <div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center;">
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/java.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/typescript.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/kotlin.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/php.png" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/spring.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/Nest.js.svg" alt="NestJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/laravel.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/android.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/angular.svg" alt="Angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/databases/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/databases/mysql.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/databases/redis.svg" alt="Redis" width="40" height="40"/>
@@ -24,7 +29,7 @@ Hi 👋 there, I'm Nyadero Brian Odhiambo! I am a software developer specialisin
 ## Looking for Opportunities
 I'm actively seeking opportunities in backend or android app development, If you're hiring for such roles or know of any relevant opportunities, feel free to contact me!
 
-## 📫 Contact Me
+## Contact Me
 <div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="mailto:briannyadero@gmail.com">
     <img src="https://raw.githubusercontent.com/nyadero/images/main/social_icons/gmail.svg" alt="Email" width="40" height="40"/>
@@ -38,7 +43,10 @@ I'm actively seeking opportunities in backend or android app development, If you
 </div>
 
 
-## 🤝 Contributions & Collaboration
+##  Contributions & Collaboration
 
 - Open to contributions and collaboration on backend(springboot) and android projects.
 - Feel free to reach out if you're interested in working together!
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nyadero&theme=github)
+
