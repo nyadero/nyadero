@@ -10,11 +10,8 @@ Mainly doing it to learn and experiment with ideas around admin tools and develo
 ##  Skills & Technologies
 <div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center;">
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/javascript.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/kotlin.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/nyadero/images/main/programming_languages/php.png" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/spring.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/laravel.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/frameworks/android.svg" alt="Android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/databases/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/nyadero/images/main/databases/mysql.svg" alt="MySQL" width="40" height="40"/>
